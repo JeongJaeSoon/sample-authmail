@@ -1,0 +1,18 @@
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.6/ext/stringio
+/Users/dev-soon/.asdf/installs/ruby/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-t132sl sitelibdir\=./.gem.20250326-52680-t132sl clean
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-t132sl sitelibdir\=./.gem.20250326-52680-t132sl
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-t132sl sitelibdir\=./.gem.20250326-52680-t132sl install
+/opt/homebrew/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20250326-52680-t132sl
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-t132sl sitelibdir\=./.gem.20250326-52680-t132sl clean

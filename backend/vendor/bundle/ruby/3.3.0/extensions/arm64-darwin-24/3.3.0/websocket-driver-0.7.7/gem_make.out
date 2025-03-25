@@ -1,0 +1,18 @@
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+/Users/dev-soon/.asdf/installs/ruby/3.3.5/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-oz5wh sitelibdir\=./.gem.20250326-52680-oz5wh clean
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-oz5wh sitelibdir\=./.gem.20250326-52680-oz5wh
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-oz5wh sitelibdir\=./.gem.20250326-52680-oz5wh install
+/opt/homebrew/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20250326-52680-oz5wh
+
+current directory: /Users/dev-soon/workspace/project/sample-authmail/backend/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.7/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20250326-52680-oz5wh sitelibdir\=./.gem.20250326-52680-oz5wh clean
